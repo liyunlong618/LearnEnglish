@@ -1,0 +1,30 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "DTDataTable",
+	"Description": "Data Table Expand / UE5.3",
+	"Category": "DT",
+	"CreatedBy": "Dexter Wan",
+	"CreatedByURL": "45141961@qq.com",
+	"DocsURL": "https://www.unrealengine.com/marketplace/slug/83e9de3ee9b1405c9ff5b46952a31382",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/83e9de3ee9b1405c9ff5b46952a31382",
+	"SupportURL": "https://dt.cq.cn/",
+	"EngineVersion": "5.3.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "DTDataTable",
+			"Type": "Runtime",
+			"LoadingPhase": "PostConfigInit",
+			"PlatformAllowList": [
+				"Win64",
+				"Mac",
+				"IOS",
+				"Android",
+				"Linux"
+			]
+		}
+	]
+}

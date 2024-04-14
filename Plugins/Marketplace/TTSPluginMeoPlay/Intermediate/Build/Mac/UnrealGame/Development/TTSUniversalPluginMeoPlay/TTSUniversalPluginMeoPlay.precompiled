@@ -1,0 +1,8 @@
+{
+	"OutputFiles": [
+		"../../../arm64/UnrealGame/Development/TTSUniversalPluginMeoPlay/Module.TTSUniversalPluginMeoPlay.cpp.o",
+		"../../../arm64/UnrealGame/Development/TTSUniversalPluginMeoPlay/Module.TTSUniversalPluginMeoPlay.cpp.o",
+		"../../../x64/UnrealGame/Development/TTSUniversalPluginMeoPlay/Module.TTSUniversalPluginMeoPlay.cpp.o",
+		"../../../x64/UnrealGame/Development/TTSUniversalPluginMeoPlay/Module.TTSUniversalPluginMeoPlay.cpp.o"
+	]
+}

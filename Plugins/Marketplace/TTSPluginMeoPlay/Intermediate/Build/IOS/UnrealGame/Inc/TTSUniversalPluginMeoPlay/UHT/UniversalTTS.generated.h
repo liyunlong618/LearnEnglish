@@ -1,0 +1,108 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+// IWYU pragma: private, include "UniversalTTS.h"
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+#ifdef TTSUNIVERSALPLUGINMEOPLAY_UniversalTTS_generated_h
+#error "UniversalTTS.generated.h already included, missing '#pragma once' in UniversalTTS.h"
+#endif
+#define TTSUNIVERSALPLUGINMEOPLAY_UniversalTTS_generated_h
+
+#define FID_Build_U5M_Marketplace_Mac_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_TTSUniversalPluginMeoPlay_Source_TTSUniversalPluginMeoPlay_Public_UniversalTTS_h_24_SPARSE_DATA
+#define FID_Build_U5M_Marketplace_Mac_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_TTSUniversalPluginMeoPlay_Source_TTSUniversalPluginMeoPlay_Public_UniversalTTS_h_24_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execTTSInitLib); \
+	DECLARE_FUNCTION(execTTSSpeech);
+
+
+#define FID_Build_U5M_Marketplace_Mac_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_TTSUniversalPluginMeoPlay_Source_TTSUniversalPluginMeoPlay_Public_UniversalTTS_h_24_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execTTSInitLib); \
+	DECLARE_FUNCTION(execTTSSpeech);
+
+
+#define FID_Build_U5M_Marketplace_Mac_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_TTSUniversalPluginMeoPlay_Source_TTSUniversalPluginMeoPlay_Public_UniversalTTS_h_24_ACCESSORS
+#define FID_Build_U5M_Marketplace_Mac_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_TTSUniversalPluginMeoPlay_Source_TTSUniversalPluginMeoPlay_Public_UniversalTTS_h_24_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUUniversalTTS(); \
+	friend struct Z_Construct_UClass_UUniversalTTS_Statics; \
+public: \
+	DECLARE_CLASS(UUniversalTTS, UBlueprintFunctionLibrary, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/TTSUniversalPluginMeoPlay"), NO_API) \
+	DECLARE_SERIALIZER(UUniversalTTS)
+
+
+#define FID_Build_U5M_Marketplace_Mac_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_TTSUniversalPluginMeoPlay_Source_TTSUniversalPluginMeoPlay_Public_UniversalTTS_h_24_INCLASS \
+private: \
+	static void StaticRegisterNativesUUniversalTTS(); \
+	friend struct Z_Construct_UClass_UUniversalTTS_Statics; \
+public: \
+	DECLARE_CLASS(UUniversalTTS, UBlueprintFunctionLibrary, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/TTSUniversalPluginMeoPlay"), NO_API) \
+	DECLARE_SERIALIZER(UUniversalTTS)
+
+
+#define FID_Build_U5M_Marketplace_Mac_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_TTSUniversalPluginMeoPlay_Source_TTSUniversalPluginMeoPlay_Public_UniversalTTS_h_24_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UUniversalTTS(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UUniversalTTS) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UUniversalTTS); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UUniversalTTS); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UUniversalTTS(UUniversalTTS&&); \
+	NO_API UUniversalTTS(const UUniversalTTS&); \
+public: \
+	NO_API virtual ~UUniversalTTS();
+
+
+#define FID_Build_U5M_Marketplace_Mac_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_TTSUniversalPluginMeoPlay_Source_TTSUniversalPluginMeoPlay_Public_UniversalTTS_h_24_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UUniversalTTS(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UUniversalTTS(UUniversalTTS&&); \
+	NO_API UUniversalTTS(const UUniversalTTS&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UUniversalTTS); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UUniversalTTS); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UUniversalTTS) \
+	NO_API virtual ~UUniversalTTS();
+
+
+#define FID_Build_U5M_Marketplace_Mac_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_TTSUniversalPluginMeoPlay_Source_TTSUniversalPluginMeoPlay_Public_UniversalTTS_h_21_PROLOG
+#define FID_Build_U5M_Marketplace_Mac_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_TTSUniversalPluginMeoPlay_Source_TTSUniversalPluginMeoPlay_Public_UniversalTTS_h_24_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_Build_U5M_Marketplace_Mac_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_TTSUniversalPluginMeoPlay_Source_TTSUniversalPluginMeoPlay_Public_UniversalTTS_h_24_SPARSE_DATA \
+	FID_Build_U5M_Marketplace_Mac_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_TTSUniversalPluginMeoPlay_Source_TTSUniversalPluginMeoPlay_Public_UniversalTTS_h_24_RPC_WRAPPERS \
+	FID_Build_U5M_Marketplace_Mac_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_TTSUniversalPluginMeoPlay_Source_TTSUniversalPluginMeoPlay_Public_UniversalTTS_h_24_ACCESSORS \
+	FID_Build_U5M_Marketplace_Mac_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_TTSUniversalPluginMeoPlay_Source_TTSUniversalPluginMeoPlay_Public_UniversalTTS_h_24_INCLASS \
+	FID_Build_U5M_Marketplace_Mac_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_TTSUniversalPluginMeoPlay_Source_TTSUniversalPluginMeoPlay_Public_UniversalTTS_h_24_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define FID_Build_U5M_Marketplace_Mac_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_TTSUniversalPluginMeoPlay_Source_TTSUniversalPluginMeoPlay_Public_UniversalTTS_h_24_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_Build_U5M_Marketplace_Mac_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_TTSUniversalPluginMeoPlay_Source_TTSUniversalPluginMeoPlay_Public_UniversalTTS_h_24_SPARSE_DATA \
+	FID_Build_U5M_Marketplace_Mac_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_TTSUniversalPluginMeoPlay_Source_TTSUniversalPluginMeoPlay_Public_UniversalTTS_h_24_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Build_U5M_Marketplace_Mac_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_TTSUniversalPluginMeoPlay_Source_TTSUniversalPluginMeoPlay_Public_UniversalTTS_h_24_ACCESSORS \
+	FID_Build_U5M_Marketplace_Mac_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_TTSUniversalPluginMeoPlay_Source_TTSUniversalPluginMeoPlay_Public_UniversalTTS_h_24_INCLASS_NO_PURE_DECLS \
+	FID_Build_U5M_Marketplace_Mac_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_TTSUniversalPluginMeoPlay_Source_TTSUniversalPluginMeoPlay_Public_UniversalTTS_h_24_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> TTSUNIVERSALPLUGINMEOPLAY_API UClass* StaticClass<class UUniversalTTS>();
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID FID_Build_U5M_Marketplace_Mac_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_TTSUniversalPluginMeoPlay_Source_TTSUniversalPluginMeoPlay_Public_UniversalTTS_h
+
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
